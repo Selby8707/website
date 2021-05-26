@@ -1,0 +1,9 @@
+{
+	"name": "adfsello02",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d19f467d-5090-4069-9f11-ef3338873445",
+		"tenantId": "a1dc90cb-869e-476a-b0a0-21d9b4725f23"
+	}
+}
